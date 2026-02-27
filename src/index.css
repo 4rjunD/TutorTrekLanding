@@ -25,7 +25,6 @@
 
 html {
   scroll-behavior: smooth;
-  overflow-x: hidden;
 }
 
 body {
@@ -35,8 +34,6 @@ body {
   -moz-osx-font-smoothing: grayscale;
   color: #1e293b;
   background: #ffffff;
-  overflow-x: hidden;
-  overscroll-behavior-y: none;
 }
 
 @theme inline {
