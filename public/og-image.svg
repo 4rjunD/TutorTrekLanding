@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <rect width="1200" height="630" fill="#2563EB"/>
+  <text x="600" y="220" text-anchor="middle" fill="white" font-family="system-ui, sans-serif" font-weight="800" font-size="72">TutorTrek</text>
+  <text x="600" y="320" text-anchor="middle" fill="white" font-family="system-ui, sans-serif" font-weight="600" font-size="42" opacity="0.95">K-12 Tutoring by Top Students</text>
+  <text x="600" y="420" text-anchor="middle" fill="white" font-family="system-ui, sans-serif" font-weight="400" font-size="36" opacity="0.8">$35/hr · No Contracts · Grade Improvement Guaranteed</text>
+  <text x="600" y="520" text-anchor="middle" fill="white" font-family="system-ui, sans-serif" font-weight="500" font-size="28" opacity="0.6">Serving families across metro Atlanta</text>
+</svg>
